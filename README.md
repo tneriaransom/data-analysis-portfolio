@@ -10,7 +10,7 @@ What truly excites me is the opportunity to leverage data to solve complex probl
 Let's connect and embark on this exciting journey of discovery together!
 
 ## Education
-University of Arkanas at Little Rock - B.S. Information Science
+University of Arkansas at Little Rock - B.S. Information Science
 
 ## Certificates
 [dbt Fundamentals](https://www.credential.net/85dc0085-c1f4-44ed-aff2-da6a9cf9d666#gs.6sezjr)
